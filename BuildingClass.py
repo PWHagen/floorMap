@@ -1,6 +1,5 @@
 __author__ = 'Patrick'
 
-
 class Building:
     def __init__(self, id, num_floors):
         self.isActive = False
