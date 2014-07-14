@@ -1,0 +1,7 @@
+This project is how I am trying to learn python web development with Flask.
+
+Prior to beginning this project I had no prior experience with web development, python, sqlite,
+CSS, twitter bootstrap. Basically I had no experience with any of this but had a need
+I was trying to meet. My company has a very complex way to organize cubicles so all
+this page tries to do is allow a user to search for an individual and see where they sit.
+Should be simple enough right...?
