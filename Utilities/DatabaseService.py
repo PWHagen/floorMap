@@ -8,9 +8,7 @@ import servicemanager
 import socket
 import win32api
 import win32evtlogutil
-
 from Utilities import ParsePhoneBook
-
 
 
 class FloorMapSvc (win32serviceutil.ServiceFramework):
